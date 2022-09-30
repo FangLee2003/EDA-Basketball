@@ -1,7 +1,7 @@
 # EDA-Basketball
 ![EDABasketball](https://user-images.githubusercontent.com/75077747/156500960-a1022e59-c841-41fe-8e06-93b0f485be09.png)
 
-## Kết nối với mình tại đây:
+## Stay connected:
 
 ### Linkedin: https://www.linkedin.com/in/fang-lee-613b4a210
 ### Portfolio: https://fanglee1808.zyrosite.com/
